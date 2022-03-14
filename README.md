@@ -33,6 +33,7 @@ i = inv(x)
 double = 2x
 very_small = exp(x)
 approx_x = log(very_small)
+approx_x_f64 = Float64(approx_x) # ≈ -100_000.0
 ```
 
 ## Benchmark
