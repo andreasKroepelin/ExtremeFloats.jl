@@ -1,0 +1,6 @@
+[deps]
+ArbNumerics = "7e558dbc-694d-5a72-987c-6f4ebed21442"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+ExtremeFloats = "4fba8ba3-5816-4b0a-a58e-35901defa442"
+MultiFloats = "bdf0d083-296b-4888-a5b6-7498122e68a5"
+Quadmath = "be4d8f0f-7fa4-5f49-b795-2f01399ab2dd"
