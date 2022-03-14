@@ -1,0 +1,13 @@
+name = "ExtremeFloats"
+uuid = "4fba8ba3-5816-4b0a-a58e-35901defa442"
+authors = ["Andreas Kröpelin <andreas.kroepelin@uni-jena.de> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
