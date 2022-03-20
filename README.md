@@ -20,6 +20,14 @@ More operations will be implemented in the future.
 
 ## Usage
 
+Get it from the official registry by typing
+```
+julia> ]
+pkg> add ExtremeFloats
+```
+
+After that, you can use it just as regular numbers.
+
 ```julia
 using ExtremeFloats
 
